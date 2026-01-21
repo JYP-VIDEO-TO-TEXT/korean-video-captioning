@@ -4,6 +4,17 @@
 
 LLaVA 기반 Vision-Language Model을 활용하여 한국어 비디오 캡션을 생성하는 프로젝트입니다.
 
+[![Presentation](https://img.shields.io/badge/📊_Presentation-Slides-00D4AA?style=for-the-badge)](https://korean-video-captioning-html.vercel.app/)
+[![YouTube](https://img.shields.io/badge/🎥_YouTube-Demo-FF0000?style=for-the-badge)](https://youtu.be/M1heDotZoRY)
+
+---
+
+## 📊 발표자료
+
+**[👉 발표자료 바로가기](https://korean-video-captioning-html.vercel.app/)**
+
+> 키보드 방향키(←→) 또는 스와이프로 슬라이드 이동
+
 ---
 
 ## 🎥 데모 영상
