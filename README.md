@@ -6,7 +6,7 @@
 
 LLaVA 기반 Vision-Language Model을 활용한 한국어 비디오 캡션 생성
 
-[![Demo](https://img.shields.io/badge/🎯_Live_Demo-Presentation-00D4AA?style=for-the-badge)](https://yj99son.github.io/korean_video_captioning_html/)
+[![Demo](https://img.shields.io/badge/🎯_Live_Demo-Presentation-00D4AA?style=for-the-badge)](https://korean-video-captioning-html.vercel.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -27,7 +27,7 @@ LLaVA 기반 Vision-Language Model을 활용한 한국어 비디오 캡션 생�
 
 **[👉 발표자료 바로가기](https://korean-video-captioning-html.vercel.app/)**
 
-<a href="https://yj99son.github.io/korean_video_captioning_html/">
+<a href="https://korean-video-captioning-html.vercel.app/">
   <img src="https://img.shields.io/badge/📑_프레젠테이션_보기-Click_Here-00D4AA?style=for-the-badge&logoColor=white" alt="Presentation"/>
 </a>
 
