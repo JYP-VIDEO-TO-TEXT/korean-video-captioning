@@ -1,0 +1,54 @@
+{
+  "special_tokens": {
+    "pad_token": "<|endoftext|>",
+    "pad_token_id": 151643,
+    "eos_token": "<|im_end|>",
+    "eos_token_id": 151645,
+    "pad_equals_eos": false
+  },
+  "korean_tokenization": [
+    {
+      "caption": "남자가 카메라를 향해 서 있습니다.",
+      "num_tokens": 14,
+      "chars_per_token": 1.3571428571428572
+    },
+    {
+      "caption": "여자가 책을 읽고 있습니다.",
+      "num_tokens": 9,
+      "chars_per_token": 1.6666666666666667
+    },
+    {
+      "caption": "아이들이 공원에서 뛰어놀고 있습니다.",
+      "num_tokens": 14,
+      "chars_per_token": 1.4285714285714286
+    },
+    {
+      "caption": "한 남성이 흰색 셔츠를 입고 마이크 앞에서 발표를 하고 있습니다. 뒤에는 프레젠테이션 화면이 보이며, 청중들이 앉아서 듣고 있습니다.",
+      "num_tokens": 55,
+      "chars_per_token": 1.3454545454545455
+    },
+    {
+      "caption": "영상에서는 두 사람이 대화를 나누고 있습니다. 첫 번째 사람은 검은색 정장을 입고 있으며, 두 번째 사람은 회색 스웨터를 입고 있습니다. 배경에는 사무실 인테리어가 보입니다.",
+      "num_tokens": 54,
+      "chars_per_token": 1.7962962962962963
+    }
+  ],
+  "prompt_caption": {
+    "prompt_len": 10,
+    "caption_len": 24,
+    "combined_len": 34,
+    "padded_len": 256,
+    "actual_tokens": 34
+  },
+  "pad_masking": {
+    "total_tokens": 256,
+    "pad_tokens": 232,
+    "masked_tokens": 232,
+    "trainable_tokens": 24,
+    "prompt_len": 10
+  },
+  "chat_template": {
+    "chat_template": "<|im_start|>user\n이 영상을 자세히 설명해주세요.<|im_end|>\n<|im_start|>assistant\n",
+    "token_len": 18
+  }
+}
