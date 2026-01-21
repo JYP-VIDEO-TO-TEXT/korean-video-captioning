@@ -1,0 +1,54 @@
+{
+  "generation_config": "GenerationConfig {\n  \"bos_token_id\": 151643,\n  \"do_sample\": true,\n  \"eos_token_id\": [\n    151645,\n    151643\n  ],\n  \"pad_token_id\": 151643,\n  \"temperature\": 0.6,\n  \"top_k\": 20,\n  \"top_p\": 0.95\n}\n",
+  "thinking_mode": {
+    "thinking_detected_basic": false,
+    "enable_thinking_supported": false,
+    "thinking_with_chat_template": true
+  },
+  "inputs_embeds": {
+    "success": true,
+    "generated_tokens": 128,
+    "generated_text_len": 514,
+    "unique_token_ratio": 0.5390625
+  },
+  "generation_length": [
+    {
+      "max_new_tokens": 50,
+      "generated_tokens": 50,
+      "text_len": 130,
+      "time": 1.6060287952423096,
+      "early_stop": false
+    },
+    {
+      "max_new_tokens": 100,
+      "generated_tokens": 100,
+      "text_len": 203,
+      "time": 3.1309762001037598,
+      "early_stop": false
+    },
+    {
+      "max_new_tokens": 256,
+      "generated_tokens": 256,
+      "text_len": 445,
+      "time": 7.971932411193848,
+      "early_stop": false
+    }
+  ],
+  "repetition_penalty": [
+    {
+      "config": "baseline",
+      "text": " \n\n영상 제목: \"The Power of the Mind: How to Change Your Life with Positive Thinking\" \n\n영상 내용: \n- 인생의 문제를 해결하는 데 도움이 되는 사고방식을 설명합니다. \n- 긍정적인 사고방식의 중요성과 그 효과를 설명합니다. \n- 긍정적인 사고방식을 키우는 방법을 설명합니다. \n- 긍정적인 사고",
+      "unique_ratio": 0.5909090909090909
+    },
+    {
+      "config": "repetition_penalty=1.2",
+      "text": " \n\n영상 제목: \"The Power of the Mind\" (마음의 힘)\n\n내용:\n- 1분 동안 집중하고, 깊은 숨을 쉬고, 마음속으로 'I am'이라는 단어를 반복하며 명상하는 방법\n- 이 과정에서 뇌에 어떤 변화가 일어나는지 설명합니다.\n- 또한, 이러한 연습이 신체 건강과 정신적 안정",
+      "unique_ratio": 0.9272727272727272
+    },
+    {
+      "config": "no_repeat_ngram_size=3",
+      "text": " \n\n영상 제목: \"The Power of the Mind: How to Change Your Life with Positive Thinking\" \n\n영상 내용: \n- 인생의 문제를 해결하는 데 도움이 되는 사고방식을 설명합니다. \n- 긍정적인 사고가 어떻게 삶을 바꾸는지 보여줍니다. \nself-talk, visualization, gratitude, af",
+      "unique_ratio": 0.7636363636363637
+    }
+  ]
+}
