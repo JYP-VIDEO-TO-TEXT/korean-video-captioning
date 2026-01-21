@@ -25,7 +25,7 @@ LLaVA 기반 Vision-Language Model을 활용한 한국어 비디오 캡션 생�
 
 ### 🖥️ Interactive Presentation
 
-**[👉 발표자료 바로가기](https://yj99son.github.io/korean_video_captioning_html/)**
+**[👉 발표자료 바로가기](https://korean-video-captioning-html.vercel.app/)**
 
 <a href="https://yj99son.github.io/korean_video_captioning_html/">
   <img src="https://img.shields.io/badge/📑_프레젠테이션_보기-Click_Here-00D4AA?style=for-the-badge&logoColor=white" alt="Presentation"/>
